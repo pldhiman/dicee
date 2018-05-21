@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+// new button add kiya
 class ViewController: UIViewController {
     var randomNumDice1 : Int = 0
     var randomNumDice2 : Int = 0
